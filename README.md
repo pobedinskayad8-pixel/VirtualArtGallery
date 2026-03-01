@@ -1,2 +1,0 @@
-# VirtualArtGallery
-gallery

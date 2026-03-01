@@ -1,0 +1,45 @@
+C:\Users\pobed\source\repos\gallerea\gallerea\bin\Debug\gallerea.exe.config
+C:\Users\pobed\source\repos\gallerea\gallerea\bin\Debug\gallerea.exe
+C:\Users\pobed\source\repos\gallerea\gallerea\bin\Debug\gallerea.pdb
+C:\Users\pobed\source\repos\gallerea\gallerea\obj\Debug\gallerea.csproj.AssemblyReference.cache
+C:\Users\pobed\source\repos\gallerea\gallerea\obj\Debug\AddArtworkWindow.baml
+C:\Users\pobed\source\repos\gallerea\gallerea\obj\Debug\ArtworkDetailWindow.baml
+C:\Users\pobed\source\repos\gallerea\gallerea\obj\Debug\ExhibitionsWindow.baml
+C:\Users\pobed\source\repos\gallerea\gallerea\obj\Debug\MainWindow.baml
+C:\Users\pobed\source\repos\gallerea\gallerea\obj\Debug\AddArtworkWindow.g.cs
+C:\Users\pobed\source\repos\gallerea\gallerea\obj\Debug\ArtworkDetailWindow.g.cs
+C:\Users\pobed\source\repos\gallerea\gallerea\obj\Debug\ExhibitionsWindow.g.cs
+C:\Users\pobed\source\repos\gallerea\gallerea\obj\Debug\MainWindow.g.cs
+C:\Users\pobed\source\repos\gallerea\gallerea\obj\Debug\App.g.cs
+C:\Users\pobed\source\repos\gallerea\gallerea\obj\Debug\gallerea_MarkupCompile.cache
+C:\Users\pobed\source\repos\gallerea\gallerea\obj\Debug\gallerea_MarkupCompile.lref
+C:\Users\pobed\source\repos\gallerea\gallerea\obj\Debug\App.baml
+C:\Users\pobed\source\repos\gallerea\gallerea\obj\Debug\gallerea.g.resources
+C:\Users\pobed\source\repos\gallerea\gallerea\obj\Debug\gallerea.Properties.Resources.resources
+C:\Users\pobed\source\repos\gallerea\gallerea\obj\Debug\gallerea.csproj.GenerateResource.cache
+C:\Users\pobed\source\repos\gallerea\gallerea\obj\Debug\gallerea.csproj.CoreCompileInputs.cache
+C:\Users\pobed\source\repos\gallerea\gallerea\obj\Debug\gallerea.exe
+C:\Users\pobed\source\repos\gallerea\gallerea\obj\Debug\gallerea.pdb
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\bin\Debug\gallerea.exe.config
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\bin\Debug\gallerea.exe
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\bin\Debug\gallerea.pdb
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\gallerea.csproj.AssemblyReference.cache
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\AddArtworkWindow.baml
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\ArtworkDetailWindow.baml
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\ExhibitionsWindow.baml
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\MainWindow.baml
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\AddArtworkWindow.g.cs
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\ArtworkDetailWindow.g.cs
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\ExhibitionsWindow.g.cs
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\MainWindow.g.cs
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\App.g.cs
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\gallerea_MarkupCompile.cache
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\gallerea_MarkupCompile.lref
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\App.baml
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\gallerea.g.resources
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\gallerea.Properties.Resources.resources
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\gallerea.csproj.GenerateResource.cache
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\gallerea.csproj.CoreCompileInputs.cache
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\gallerea.exe
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\gallerea.pdb
+C:\Users\pobed\OneDrive\Рабочий стол\ака\2 курс\уп и пп\gallerea\gallerea\obj\Debug\gallerea.exe.config

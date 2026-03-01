@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|c:\\users\\pobed\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|solutionrelative:gallerea\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\artworkdetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|solutionrelative:gallerea\\artworkdetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\addartworkwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|solutionrelative:gallerea\\addartworkwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\exhibitionswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|solutionrelative:gallerea\\exhibitionswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\exhibitionswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|solutionrelative:gallerea\\exhibitionswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\addartworkwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|solutionrelative:gallerea\\addartworkwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\artworkdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|solutionrelative:gallerea\\artworkdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|solutionrelative:gallerea\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|solutionrelative:gallerea\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|solutionrelative:gallerea\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662D7988-88AB-4F24-8A5B-95F8654A6028}|gallerea\\gallerea.csproj|solutionrelative:gallerea\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExhibitionsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\ExhibitionsWindow.xaml",
+              "RelativeDocumentMoniker": "gallerea\\ExhibitionsWindow.xaml",
+              "ToolTip": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\ExhibitionsWindow.xaml",
+              "RelativeToolTip": "gallerea\\ExhibitionsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-01T15:46:00.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddArtworkWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\AddArtworkWindow.xaml",
+              "RelativeDocumentMoniker": "gallerea\\AddArtworkWindow.xaml",
+              "ToolTip": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\AddArtworkWindow.xaml",
+              "RelativeToolTip": "gallerea\\AddArtworkWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-01T15:42:13.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddArtworkWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\AddArtworkWindow.xaml.cs",
+              "RelativeDocumentMoniker": "gallerea\\AddArtworkWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\AddArtworkWindow.xaml.cs",
+              "RelativeToolTip": "gallerea\\AddArtworkWindow.xaml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T15:43:00.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArtworkDetailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\ArtworkDetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "gallerea\\ArtworkDetailWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\ArtworkDetailWindow.xaml.cs",
+              "RelativeToolTip": "gallerea\\ArtworkDetailWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T15:40:21.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "gallerea\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\MainWindow.xaml.cs",
+              "RelativeToolTip": "gallerea\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA4wEkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:34:56.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExhibitionsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\ExhibitionsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "gallerea\\ExhibitionsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\ExhibitionsWindow.xaml.cs",
+              "RelativeToolTip": "gallerea\\ExhibitionsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T15:46:32.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArtworkDetailWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\ArtworkDetailWindow.xaml",
+              "RelativeDocumentMoniker": "gallerea\\ArtworkDetailWindow.xaml",
+              "ToolTip": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\ArtworkDetailWindow.xaml",
+              "RelativeToolTip": "gallerea\\ArtworkDetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-01T15:33:38.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\App.config",
+              "RelativeDocumentMoniker": "gallerea\\App.config",
+              "ToolTip": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\App.config",
+              "RelativeToolTip": "gallerea\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-01T14:44:29.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "gallerea\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\MainWindow.xaml",
+              "RelativeToolTip": "gallerea\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-01T14:34:56.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\App.xaml",
+              "RelativeDocumentMoniker": "gallerea\\App.xaml",
+              "ToolTip": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\App.xaml",
+              "RelativeToolTip": "gallerea\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-01T14:41:30.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\App.xaml.cs",
+              "RelativeDocumentMoniker": "gallerea\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\pobed\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u043A\u0430\\2 \u043A\u0443\u0440\u0441\\\u0443\u043F \u0438 \u043F\u043F\\gallerea\\gallerea\\App.xaml.cs",
+              "RelativeToolTip": "gallerea\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:42:16.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
