@@ -98,7 +98,7 @@ namespace gallarea
                     Comments = new System.Collections.Generic.List<Comment>()
                 };
 
-                // Добавляем в хранилище
+                
                 GalleryData.Artworks.Add(artwork);
 
                 DialogResult = true;
