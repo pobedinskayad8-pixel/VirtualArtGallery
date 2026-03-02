@@ -45,7 +45,7 @@ namespace gallarea
 
         private void SaveBtn_Click(object sender, RoutedEventArgs e)
         {
-            // Валидация
+            
             if (string.IsNullOrWhiteSpace(TitleBox.Text))
             {
                 MessageBox.Show("Введите название произведения", "Ошибка",
@@ -69,21 +69,21 @@ namespace gallarea
 
             try
             {
-                // Создаем папку Images если её нет
+                
                 string imagesFolder = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Images");
                 if (!Directory.Exists(imagesFolder))
                     Directory.CreateDirectory(imagesFolder);
 
-                // Копируем изображение в папку приложения с уникальным именем
+                
                 string fileName = $"{Guid.NewGuid()}{Path.GetExtension(_selectedImagePath)}";
                 string destPath = Path.Combine(imagesFolder, fileName);
                 File.Copy(_selectedImagePath, destPath);
 
-                // Парсим год
+                
                 int year = 0;
                 int.TryParse(YearBox.Text, out year);
 
-                // Создаем новое произведение
+              
                 var artwork = new Artwork
                 {
                     Id = GalleryData.GetNextArtworkId(),
