@@ -54,14 +54,14 @@ namespace gallarea
                 }
             }
 
-            // ЗАГРУЗКА ИЗОБРАЖЕНИЯ
+            
             try
             {
                 if (!string.IsNullOrEmpty(_artwork.ImagePath))
                 {
-                    // Получаем путь к папке с программой
+                  
                     string appFolder = AppDomain.CurrentDomain.BaseDirectory;
-                    // Добавляем относительный путь
+                    
                     string fullPath = System.IO.Path.Combine(appFolder, _artwork.ImagePath);
 
                     if (System.IO.File.Exists(fullPath))
@@ -77,7 +77,7 @@ namespace gallarea
             }
             catch (Exception ex)
             {
-                // Ошибка, но программа продолжает работать
+                
                 System.Diagnostics.Debug.WriteLine($"Ошибка загрузки: {ex.Message}");
                 ArtImage.Source = null;
             }
