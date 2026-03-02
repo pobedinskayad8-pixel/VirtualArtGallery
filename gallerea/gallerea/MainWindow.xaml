@@ -16,7 +16,7 @@
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <!-- Фильтры -->
+        
         <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0,0,0,10">
             <Label Content="Жанр:" VerticalAlignment="Center"/>
             <ComboBox x:Name="GenreFilter" Width="120" Margin="5" SelectionChanged="Filter_Changed"/>
@@ -25,20 +25,20 @@
             <Button Content="Сброс" Width="80" Margin="20,5,5,5" Click="ResetFilter_Click"/>
         </StackPanel>
 
-        <!-- Список и предпросмотр -->
+        
         <Grid Grid.Row="1">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="250"/>
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
 
-            <!-- Список произведений -->
+            
             <ListBox x:Name="ArtworksList" Grid.Column="0" 
                      DisplayMemberPath="Title"
                      SelectionChanged="ArtworksList_SelectionChanged"
                      Margin="0,0,10,0"/>
 
-            <!-- Предпросмотр -->
+            
             <Border Grid.Column="1" BorderBrush="Gray" BorderThickness="1" CornerRadius="5" Padding="10">
                 <StackPanel>
                     <TextBlock Text="Предпросмотр" FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
@@ -50,7 +50,7 @@
             </Border>
         </Grid>
 
-        <!-- Кнопки -->
+        
         <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
             <Button x:Name="ViewBtn" Content="Детально" Width="100" Height="30" Margin="5" Click="ViewBtn_Click"/>
             <Button x:Name="AddBtn" Content="Добавить" Width="100" Height="30" Margin="5" Click="AddBtn_Click"/>
