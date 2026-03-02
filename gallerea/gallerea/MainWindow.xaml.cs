@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 
 namespace gallarea
 {
-    // Модели данных (простые классы)
+    
     public class Artwork
     {
         public int Id { get; set; }
