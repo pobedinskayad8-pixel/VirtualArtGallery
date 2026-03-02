@@ -18,7 +18,7 @@ namespace gallarea
             {
                 ExhibitionName.Text = exh.Name;
 
-                // Показываем произведения из этой выставки
+                
                 var artworks = GalleryData.Artworks
                     .Where(a => exh.ArtworkIds.Contains(a.Id))
                     .ToList();
